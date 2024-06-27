@@ -1,0 +1,6 @@
+name            = ""
+owner_email     = ""
+location        = ""
+subscription_id = ""
+tenant_id       = ""
+k8s_version     = ""
